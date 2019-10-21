@@ -1,1 +1,1 @@
-# Sample-form-in-github
+This is a sample form made in HTML only.
