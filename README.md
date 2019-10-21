@@ -1,3 +1,3 @@
 # Sample Form #  
 
-This is a sample form made in HTML only.
+This is a simple form made in HTML only.
